@@ -68,7 +68,7 @@ The KiwisIoT platform is used to monitor the street light system.
 
 ## 📊 System Output
 
-![DHT11 IoT Output](./img%20dhtiot.jpeg)
+![LDR Sensor Output](./imgldr.jpeg)
 
 **DARK Condition:**
 - Light Condition: DARK
