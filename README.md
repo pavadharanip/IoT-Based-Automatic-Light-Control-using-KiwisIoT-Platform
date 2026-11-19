@@ -32,6 +32,8 @@ The LDR sensor detects the surrounding light intensity and automatically control
 - KiwisIoT Library
 - KiwisIoT Platform
 
+[View Arduino Code](./ldriot.ino)
+
 ## 🔌 Circuit Connections
 
 | Component | NodeMCU ESP8266 |
@@ -65,6 +67,8 @@ The KiwisIoT platform is used to monitor the street light system.
 | Channel 3 | LED Status (1 / 0) |
 
 ## 📊 System Output
+
+![LDR Sensor Output](./ldrwidg.png)
 
 **DARK Condition:**
 - Light Condition: DARK
