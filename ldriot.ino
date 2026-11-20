@@ -2,11 +2,11 @@
 #include <KiwisIoT.h>
 
 // WiFi credentials
-const char* ssid = "lapptt";
-const char* pass = "oppof298";
+const char* ssid = "YOUR WIFI NAME";
+const char* pass = "YOUR PASSWORD";
 
 // KiwisIoT Topic ID
-const char* topic = "dash_1794989018764";
+const char* topic = "DASHBOARD TOPIC ID";
 
 // Pin configuration
 #define LDR_PIN A0
